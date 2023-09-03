@@ -51,3 +51,4 @@ Ayuda a otros estudiantes con eso que acabas de descubrir que haría este curso 
 - Por su parte, los [Pull Request](https://github.com/jonalvarezz/react-typescript/pulls) siempre estarán abiertos para recibir mejoras puntuales.
 
 Happy hacking!
+# react-with-ts
